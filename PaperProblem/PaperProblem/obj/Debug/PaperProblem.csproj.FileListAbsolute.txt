@@ -1,0 +1,7 @@
+C:\Users\69 Gang\source\repos\PaperProblem\PaperProblem\bin\Debug\PaperProblem.exe.config
+C:\Users\69 Gang\source\repos\PaperProblem\PaperProblem\bin\Debug\PaperProblem.exe
+C:\Users\69 Gang\source\repos\PaperProblem\PaperProblem\bin\Debug\PaperProblem.pdb
+C:\Users\69 Gang\source\repos\PaperProblem\PaperProblem\obj\Debug\PaperProblem.csprojAssemblyReference.cache
+C:\Users\69 Gang\source\repos\PaperProblem\PaperProblem\obj\Debug\PaperProblem.csproj.CoreCompileInputs.cache
+C:\Users\69 Gang\source\repos\PaperProblem\PaperProblem\obj\Debug\PaperProblem.exe
+C:\Users\69 Gang\source\repos\PaperProblem\PaperProblem\obj\Debug\PaperProblem.pdb

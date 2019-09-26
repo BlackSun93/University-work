@@ -1,0 +1,7 @@
+C:\Users\69 Gang\source\repos\paintproblem\paintproblem\obj\Debug\paintproblem.csprojAssemblyReference.cache
+C:\Users\69 Gang\source\repos\paintproblem\paintproblem\obj\Debug\paintproblem.csproj.CoreCompileInputs.cache
+C:\Users\69 Gang\source\repos\paintproblem\paintproblem\bin\Debug\paintproblem.exe.config
+C:\Users\69 Gang\source\repos\paintproblem\paintproblem\bin\Debug\paintproblem.exe
+C:\Users\69 Gang\source\repos\paintproblem\paintproblem\bin\Debug\paintproblem.pdb
+C:\Users\69 Gang\source\repos\paintproblem\paintproblem\obj\Debug\paintproblem.exe
+C:\Users\69 Gang\source\repos\paintproblem\paintproblem\obj\Debug\paintproblem.pdb
