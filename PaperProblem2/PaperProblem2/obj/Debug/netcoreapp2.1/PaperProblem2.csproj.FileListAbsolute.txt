@@ -1,0 +1,11 @@
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\bin\Debug\netcoreapp2.1\PaperProblem2.deps.json
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\bin\Debug\netcoreapp2.1\PaperProblem2.runtimeconfig.json
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\bin\Debug\netcoreapp2.1\PaperProblem2.runtimeconfig.dev.json
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\bin\Debug\netcoreapp2.1\PaperProblem2.dll
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\bin\Debug\netcoreapp2.1\PaperProblem2.pdb
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\obj\Debug\netcoreapp2.1\PaperProblem2.csproj.CoreCompileInputs.cache
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\obj\Debug\netcoreapp2.1\PaperProblem2.AssemblyInfoInputs.cache
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\obj\Debug\netcoreapp2.1\PaperProblem2.AssemblyInfo.cs
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\obj\Debug\netcoreapp2.1\PaperProblem2.dll
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\obj\Debug\netcoreapp2.1\PaperProblem2.pdb
+H:\My Documents\Development\IntroToProg\PaperProblem2\PaperProblem2\obj\Debug\netcoreapp2.1\PaperProblem2.csprojAssemblyReference.cache
