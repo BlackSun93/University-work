@@ -1,0 +1,7 @@
+C:\Users\69 Gang\source\repos\mariaTask\mariaTask\bin\Debug\mariaTask.exe.config
+C:\Users\69 Gang\source\repos\mariaTask\mariaTask\bin\Debug\mariaTask.exe
+C:\Users\69 Gang\source\repos\mariaTask\mariaTask\bin\Debug\mariaTask.pdb
+C:\Users\69 Gang\source\repos\mariaTask\mariaTask\obj\Debug\mariaTask.csprojAssemblyReference.cache
+C:\Users\69 Gang\source\repos\mariaTask\mariaTask\obj\Debug\mariaTask.csproj.CoreCompileInputs.cache
+C:\Users\69 Gang\source\repos\mariaTask\mariaTask\obj\Debug\mariaTask.exe
+C:\Users\69 Gang\source\repos\mariaTask\mariaTask\obj\Debug\mariaTask.pdb
